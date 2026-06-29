@@ -1,7 +1,7 @@
 import React from 'react';
-import { Card } from './ui/Card';
-import { Button } from './ui/Button';
-import { Badge } from './ui/Badge';
+import { Card } from './ui/card';
+import { Button } from './ui/button';
+import { Badge } from './ui/badge';
 import { CheckCircle2, Lock, Flame, ChevronRight, Edit2 } from 'lucide-react';
 import { cn } from '../utils/cn';
 import { motion } from 'motion/react';
