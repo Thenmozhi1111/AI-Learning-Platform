@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion, useScroll, useTransform } from 'motion/react';
-import { Button } from './ui/Button';
-import { Card } from './ui/Card';
+import { Button } from './ui/button';
+import { Card } from './ui/card';
 import { Target, Map, Trophy, Briefcase, MapPin, Gamepad2, CheckSquare, MessageSquare, Mic, Medal, ArrowRight, CheckCircle2, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router';
 
