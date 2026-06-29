@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
-import { Button } from './ui/Button';
-import { Card } from './ui/Card';
+import { Button } from './ui/button';
+import { Card } from './ui/card';
 import { ArrowRight, Mail, Lock, User } from 'lucide-react';
 import { Link, useNavigate } from 'react-router';
 import { useAuth } from '../utils/AuthContext';
