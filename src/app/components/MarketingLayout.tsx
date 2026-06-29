@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, Outlet } from 'react-router';
 import { motion } from 'motion/react';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 import logoSrc from '../../imports/WhatsApp_Image_2026-06-19_at_1.56.20_PM.jpeg';
 import { Menu, X, Linkedin, Github, Instagram, Youtube } from 'lucide-react';
 
