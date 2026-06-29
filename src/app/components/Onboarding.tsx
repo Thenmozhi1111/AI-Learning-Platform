@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useNavigate } from 'react-router';
-import { Button } from './ui/Button';
-import { Card } from './ui/Card';
+import { Button } from './ui/button';
+import { Card } from './ui/card';
 import { Check, ArrowRight } from 'lucide-react';
 import { cn } from '../utils/cn';
 import logoSrc from '../../imports/WhatsApp_Image_2026-06-19_at_1.56.20_PM.jpeg';
