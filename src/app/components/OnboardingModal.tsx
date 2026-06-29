@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Button } from './ui/Button';
-import { Card } from './ui/Card';
+import { Button } from './ui/button';
+import { Card } from './ui/card';
 import { X, Target, Code, Briefcase, Sparkles } from 'lucide-react';
 import { useAuth } from '../utils/AuthContext';
 
